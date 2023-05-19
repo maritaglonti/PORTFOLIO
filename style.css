@@ -1,0 +1,20 @@
+h1 {color: rgb(150, 85, 187);
+text-align: center;
+text-shadow: 1px 1px #050505;
+margin-top: 0px;}
+
+body {background-image: url(marek-piwnicki-FOMWbTDuh3s-unsplash.jpg);
+    background-repeat: no-repeat;
+}
+
+
+a { color: rgb(255, 255, 255);
+text-decoration: none;
+margin: 0px;
+text-shadow: 1px 0.5px #050505;
+}
+
+a:hover {color: black;
+transition: 0.3s;}
+
+.Card {margin: 20px;}
